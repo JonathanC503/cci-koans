@@ -11,9 +11,9 @@ jobs:
               echo "You can even have multiline commands."
       - restore_cache:
           keys:
-          - v1-dependencies
-          - run: mkdir ~/cache/
-          - run: echo \"testfile"\ > ~/cache/log.txt #what in the world..
-          - save_cache:
-          key: v1-dependencies
+            - v1-dependencies-
+      - run: mkdir ~/cache/
+      - run: echo "testfile" > ~/cache/log.txt #what in the world..
+      - save_cache:
+          key: v1-dependencies-
           paths: ~/cache
