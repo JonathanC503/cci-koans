@@ -33,6 +33,13 @@ workflows:
     jobs:
       - build
       - test-node
+        - requires: build
       - test-node-8
+        - requires: build
       - test-node-6
+        - requires: build
       - deploy
+        - requires: 
+            -test-node
+            -test-node-8
+            -test-node-6
