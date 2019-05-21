@@ -3,3 +3,7 @@
 02 - YAML Life: https://circleci.com/gh/JonathanC503/cci-koans/7 
 
 03 - Database Ace: https://circleci.com/gh/JonathanC503/cci-koans/11
+
+04 - Skipped due to master showing as "incomplete" for Parallelism 05/20
+
+05 - Test Summary Mummary: 
