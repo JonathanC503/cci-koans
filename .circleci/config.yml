@@ -17,5 +17,12 @@ jobs:
       - store_artifacts:
           path: ~/project/results/
           destination: prefix
-      
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+        requires:
+          - build     
 
