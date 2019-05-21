@@ -12,9 +12,10 @@ jobs:
           data-dir: ~/project/results
           upload: true
 # Add below this line, do not modify above
+      - store_test_results:
+          path: ~/project/results
       - store_artifacts:
           path: ~/project/results
           destination: prefix
-      - store_test_results:
-          path: ~/project/results
+      
 
