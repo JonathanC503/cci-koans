@@ -1,3 +1,3 @@
 # cci-koans
 
-This is a test.  This is only a test...mostly...
+Working Notes on the CCI-Training Koans provided by Mr. KyleTryon
