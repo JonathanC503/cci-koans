@@ -8,3 +8,5 @@
 
 05 - Test Summary Mummary: 
 [![CircleCI](https://circleci.com/gh/JonathanC503/cci-koans.svg?style=svg)](https://circleci.com/gh/JonathanC503/cci-koans)
+
+06 - Branch Filters FTW: 
