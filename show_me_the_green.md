@@ -11,7 +11,6 @@
 06 - Branch Filters FTW: https://circleci.com/gh/JonathanC503/cci-koans/30
 
 07 - Tag & Filter: https://circleci.com/gh/JonathanC503/cci-koans/36
-                   https://circleci.com/gh/JonathanC503/cci-koans/37
 
 08 - Workflow Fan Out Jam Out: 
 
