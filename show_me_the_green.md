@@ -10,6 +10,6 @@
 
 06 - Branch Filters FTW: https://circleci.com/gh/JonathanC503/cci-koans/30
 
-
+07 - Tag & Filter: 
 
 [![CircleCI](https://circleci.com/gh/JonathanC503/cci-koans.svg?style=svg)](https://circleci.com/gh/JonathanC503/cci-koans)
