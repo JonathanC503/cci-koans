@@ -8,12 +8,16 @@
 
 05 - Test Summary Mummary: 
 
-06 - Branch Filters FTW: https://circleci.com/gh/JonathanC503/cci-koans/30
+06 - Branch Filters FTW: https://circleci.com/gh/JonathanC503/cci-koans/29
+                         https://circleci.com/gh/JonathanC503/cci-koans/30
 
-07 - Tag & Filter: https://circleci.com/gh/JonathanC503/cci-koans/36
+07 - Tag & Filter Wilter: https://circleci.com/gh/JonathanC503/cci-koans/37
 
-08 - Workflow Fan Out Jam Out: 
+08 - Workflow Fan In & Fan Out Madness: https://circleci.com/gh/JonathanC503/cci-koans/58
+    -I am not exactly sure why this works and the previous bajillion builds failed...
 
+09 - Sequential Workflow Lowdown: 
 
+10 - Reusable Config "Recycle!": 
 
 [![CircleCI](https://circleci.com/gh/JonathanC503/cci-koans.svg?style=svg)](https://circleci.com/gh/JonathanC503/cci-koans)
