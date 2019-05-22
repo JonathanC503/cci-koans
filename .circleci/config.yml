@@ -1,5 +1,4 @@
-
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
@@ -33,8 +32,14 @@ workflows:
     jobs:
       - build
       - test-node:
+          requires:
+           - build
       - test-node-8:
+          requires:
+           - build
       - test-node-6:
+          requires:
+           - build
       - deploy:
           requires: 
             -test-node
