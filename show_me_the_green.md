@@ -14,7 +14,8 @@
 07 - Tag & Filter Wilter: https://circleci.com/gh/JonathanC503/cci-koans/37
 
 08 - Workflow Fan In & Fan Out Madness: https://circleci.com/gh/JonathanC503/cci-koans/58
-    -I am not exactly sure why this works and the previous bajillion builds failed...
+    -I am not exactly sure why this works and the previous bajillion builds failed... For reference, my original formatting followed this: https://circleci.com/gh/JonathanC503/cci-koans/37
+    Moving `requires:` to deploy seems to work, though. 
 
 09 - Sequential Workflow Lowdown: 
 
