@@ -22,6 +22,7 @@
 
 - [X] 09 - Sequential Workflow Lowdown: https://circleci.com/gh/JonathanC503/cci-koans/88
 
-- [ ] 10 - Reusable Config "Recycle!": 
+- [ ] 10 - Reusable Config "Recycle!": https://circleci.com/gh/JonathanC503/cci-koans/95
+    * Should work...I think! 
 
 [![CircleCI](https://circleci.com/gh/JonathanC503/cci-koans.svg?style=svg)](https://circleci.com/gh/JonathanC503/cci-koans)
